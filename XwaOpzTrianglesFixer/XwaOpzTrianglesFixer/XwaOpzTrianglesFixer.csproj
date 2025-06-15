@@ -10,6 +10,7 @@
     <Version>1.0.0</Version>
     <Company>Jérémy Ansel</Company>
     <Copyright>Copyright © 2018 Jérémy Ansel</Copyright>
+    <ApplicationIcon>OPZTrianglesFixer.ico</ApplicationIcon>
   </PropertyGroup>
 
 </Project>
